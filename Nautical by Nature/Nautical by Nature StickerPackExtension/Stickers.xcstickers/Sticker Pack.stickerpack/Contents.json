@@ -1,0 +1,89 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Alpha.sticker"
+    },
+    {
+      "filename" : "Bravo.sticker"
+    },
+    {
+      "filename" : "Charlie.sticker"
+    },
+    {
+      "filename" : "Delta.sticker"
+    },
+    {
+      "filename" : "Echo.sticker"
+    },
+    {
+      "filename" : "Foxtrot.sticker"
+    },
+    {
+      "filename" : "Golf.sticker"
+    },
+    {
+      "filename" : "Hotel.sticker"
+    },
+    {
+      "filename" : "India.sticker"
+    },
+    {
+      "filename" : "Juliet.sticker"
+    },
+    {
+      "filename" : "Kilo.sticker"
+    },
+    {
+      "filename" : "Lima.sticker"
+    },
+    {
+      "filename" : "Mike.sticker"
+    },
+    {
+      "filename" : "November.sticker"
+    },
+    {
+      "filename" : "Oscar.sticker"
+    },
+    {
+      "filename" : "Papa.sticker"
+    },
+    {
+      "filename" : "Quebec.sticker"
+    },
+    {
+      "filename" : "Romeo.sticker"
+    },
+    {
+      "filename" : "Sierra.sticker"
+    },
+    {
+      "filename" : "Tango.sticker"
+    },
+    {
+      "filename" : "Uniform.sticker"
+    },
+    {
+      "filename" : "Victor.sticker"
+    },
+    {
+      "filename" : "Whisky.sticker"
+    },
+    {
+      "filename" : "Xray.sticker"
+    },
+    {
+      "filename" : "Yankee.sticker"
+    },
+    {
+      "filename" : "Zulu.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

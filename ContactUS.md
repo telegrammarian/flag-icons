@@ -1,3 +1,4 @@
 # Got Problems?
 
-## [Contact Us](ppolicycontact@gmail.com)
+## Contact us at:
+#### <ppolicycontact@gmail.com>
